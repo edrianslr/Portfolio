@@ -16,7 +16,7 @@ function About() {
         <div className="about_data">
           <Info />
 
-          <p className="about_description">I am skilled in developing web systems, with a focus on creating efficient, user-friendly, and scalable solutions. Passionate about web development, I enjoy transforming ideas into functional, well-designed applications.</p>
+          <p className="about_description">IT Support professional with basic knowledge of computer systems, software installation, troubleshooting, and user assistance. Skilled in providing technical support, resolving common hardware and software issues, and assisting users with system access and applications.</p>
 
           <a download="" href={CV} className="button button--flex">Download CV
             <i class="fa-solid fa-file-arrow-down button_icon"></i>

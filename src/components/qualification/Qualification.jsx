@@ -108,11 +108,11 @@ const Qualification = () => {
                 }>
                     <div className="qualification_data">
                         <div>
-                            <h3 className="qualification_title">Fresh Graduate</h3>
-                            <span className="qualification_subtitle"></span>
+                            <h3 className="qualification_title">Stitch Tech Solutions Inc.</h3>
+                            <span className="qualification_subtitle">IT Support</span>
 
                             <div className="qualification_calendar">
-                                <i className="uil uil-calendar-alt"></i> Present
+                                <i className="uil uil-calendar-alt"></i> 2024 - Present
                             </div>
                         </div>
 
